@@ -7,3 +7,7 @@
 [Visualiser le rapport en ligne](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https://ex.fail)
 
 Demo rapide pour client(s) , pour demontrer site performant , repondant aux criteres des moteurs de recherches, facile a deployer.
+
+Autre demo: [bunkers.co](https://bunkers.co)
+
+           - DOCS/TUTO(https://s.ex.fail/HOWTO)
