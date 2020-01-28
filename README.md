@@ -1,4 +1,4 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/l1kw1d/Cookies/badge.svg?targetFile=package.json)](https://snyk.io/test/github/l1kw1d/Cookies?targetFile=package.json)
+[![Known Vulnerabilities](https://snyk.io/test/github/l1kw1d/ex.fail/badge.svg?targetFile=package.json)](https://snyk.io/test/github/l1kw1d/ex.fail?targetFile=package.json)
 
 # [ex.fail](https://ex.fail)
 
